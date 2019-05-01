@@ -279,7 +279,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556725027084</updated>
       <workItem from="1556725038301" duration="2061000" />
-      <workItem from="1556728761497" duration="923000" />
+      <workItem from="1556728761497" duration="1457000" />
     </task>
     <servers />
   </component>
@@ -304,10 +304,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2984000" />
+    <option name="totallyTimeSpent" value="3518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1404" height="953" extended-state="0" />
+    <frame x="-7" y="0" width="1404" height="953" extended-state="1" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
